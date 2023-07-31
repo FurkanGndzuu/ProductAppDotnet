@@ -3,9 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CD5FA12D-6680-4070-9DF5-F66EAC68CE1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{BB2AB68B-091A-4B2C-B1E5-7336135252D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerProductApp.Api", "src\services\IdentityServerProductApp.Api\IdentityServerProductApp.Api.csproj", "{2334106C-EEDA-4D30-9D07-C752E3B1619A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2334106C-EEDA-4D30-9D07-C752E3B1619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2334106C-EEDA-4D30-9D07-C752E3B1619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2334106C-EEDA-4D30-9D07-C752E3B1619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2334106C-EEDA-4D30-9D07-C752E3B1619A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB2AB68B-091A-4B2C-B1E5-7336135252D9} = {CD5FA12D-6680-4070-9DF5-F66EAC68CE1B}
+		{2334106C-EEDA-4D30-9D07-C752E3B1619A} = {BB2AB68B-091A-4B2C-B1E5-7336135252D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {585B5A66-3D1F-48EF-913B-7D7088D9CB9E}
