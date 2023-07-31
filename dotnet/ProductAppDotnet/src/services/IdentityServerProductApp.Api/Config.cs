@@ -56,7 +56,7 @@ namespace IdentityServerProductApp.Api
                     AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
                     AllowOfflineAccess = true,
                     AllowedScopes = { IdentityServerConstants.LocalApi.ScopeName,IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Email , "photo_app_full_permission" , "product_app_full_permission" },
-                    AccessTokenLifetime = 1 * 60 * 60 * 24 ,
+                    AccessTokenLifetime = 1 * 60 * 60 * 60 * 24 ,
                     RefreshTokenExpiration = TokenExpiration.Absolute , 
                     RefreshTokenUsage = TokenUsage.ReUse , 
                     AbsoluteRefreshTokenLifetime = 1* 60 * 60 * 24 * 60 ,
