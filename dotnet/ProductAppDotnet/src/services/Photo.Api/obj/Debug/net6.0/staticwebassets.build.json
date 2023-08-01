@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5NQg/xU48Tgoa6QonSWNPEzprjwOgMipy6UiSx+VKEs=",
+  "Source": "Photo.Api",
+  "BasePath": "_content/Photo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Photo.Api\\wwwroot",
+      "Source": "Photo.Api",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Photo.Api\\wwwroot\\",
+      "BasePath": "_content/Photo.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Photo.Api\\wwwroot\\photos\\4e5d2a52-9b98-4193-89a6-1006ced065be.jpg",
+      "SourceId": "Photo.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Photo.Api\\wwwroot\\",
+      "BasePath": "_content/Photo.Api",
+      "RelativePath": "photos/4e5d2a52-9b98-4193-89a6-1006ced065be.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\4e5d2a52-9b98-4193-89a6-1006ced065be.jpg"
+    }
+  ]
+}
