@@ -31,3 +31,13 @@ C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductApp
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\obj\Debug\net6.0\Photo.Api.pdb
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\obj\Debug\net6.0\Photo.Api.genruntimeconfig.cache
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\obj\Debug\net6.0\ref\Photo.Api.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Photo.Api\bin\Debug\net6.0\Shared.pdb

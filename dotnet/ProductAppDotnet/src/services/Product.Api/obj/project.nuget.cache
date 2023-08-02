@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7cqN8osU9q5IZiKyVIMaYkRvQMPp/XpCFwKMKw1otJxkdLJvWUlpaxRYcM05gkeikxYo1Uo5hAvVPEJrtEejng==",
+  "dgSpecHash": "2hYGJcAZARbM1EhzaynVth60WfGa+al39z6dQc/hoqMAh5LewRtCz2z5Yix3JBzzqB+EPPRuM78cvz/q68BYsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Product.Api\\Product.Api.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.spatial\\7.16.0\\microsoft.spatial.7.16.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

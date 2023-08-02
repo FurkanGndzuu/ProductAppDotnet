@@ -15,6 +15,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Shared.Extensions;
 
 namespace IdentityServerProductApp.Api
 {
@@ -42,6 +43,8 @@ namespace IdentityServerProductApp.Api
             {
                 opt.RegisterValidatorsFromAssemblyContaining<Startup>();
             });
+
+            services.CustomValidationHandler();
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -88,9 +91,14 @@ namespace IdentityServerProductApp.Api
             {
                 app.UseDeveloperExceptionPage();
                 app.UseDatabaseErrorPage();
+
+                app.DelayForDevelopment();
+                
             }
 
             app.UseStaticFiles();
+
+            app.CustomExceptionHandler();
 
             app.UseRouting();
             app.UseIdentityServer();

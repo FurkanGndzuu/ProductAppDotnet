@@ -7,6 +7,8 @@ using Product.Api.Models.Entities;
 using Product.Api.Services;
 using Microsoft.AspNetCore.OData.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Shared.Extensions;
+using Shared.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,7 +32,11 @@ var modelBuilder = new ODataConventionModelBuilder();
 modelBuilder.EntitySet<Product.Api.Models.Entities.Product>("Products");
 modelBuilder.EntitySet<Category>("Categories");
 
-builder.Services.AddControllers().AddOData(
+builder.Services.AddControllers(opt =>
+{
+    opt.Filters.Add<ValidateModelAttribute>();
+
+}).AddOData(
     options => options.Select().Filter().OrderBy().Expand().Count().SetMaxTop(null).AddRouteComponents(
         "odata",
         modelBuilder.GetEdmModel()));
@@ -48,11 +54,16 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-   // app.UseSwagger();
+    // app.UseSwagger();
     //app.UseSwaggerUI();
+
+    app.DelayForDevelopment();
 }
 
 //app.UseHttpsRedirection();
+
+app.CustomExceptionHandler();
+
 app.UseAuthentication();
 
 app.UseAuthorization();

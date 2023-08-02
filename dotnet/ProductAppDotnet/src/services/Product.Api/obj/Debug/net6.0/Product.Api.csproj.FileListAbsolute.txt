@@ -70,3 +70,6 @@ C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductApp
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\obj\Debug\net6.0\Product.Api.pdb
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\obj\Debug\net6.0\Product.Api.genruntimeconfig.cache
 C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\obj\Debug\net6.0\ref\Product.Api.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\bin\Debug\net6.0\Shared.dll
+C:\Users\furka\OneDrive\Masaüstü\ProductAppWithDotnet&Kotlin\dotnet\ProductAppDotnet\src\services\Product.Api\bin\Debug\net6.0\Shared.pdb

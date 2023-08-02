@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Photo.Api.Services;
+using Shared.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,10 +27,13 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.DelayForDevelopment();
 }
 
 //app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.CustomExceptionHandler();
 
 app.UseAuthentication();
 app.UseAuthorization();

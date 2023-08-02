@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eDmmyRLFVrbcDglrPRKezaycakA4Hy1ezert8aVv2taO3uIeylhFCtxREdMcglqoJn9ECEBTR7dgJnEFOMuhTw==",
+  "dgSpecHash": "4XFQkAN++Bv2YFo3brk7LqW5YMTDRulGgCdIVliWvBGe4fjxyAsBfn8+Lor4di4SQaE/2xqRSQ2YFesyV2FogA==",
   "success": true,
   "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\IdentityServerProductApp.Api\\IdentityServerProductApp.Api.csproj",
   "expectedPackageFiles": [

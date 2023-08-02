@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdPHlZd4kKYNu/nE2Xh8cvwQcMEyDH37Hjyvhpyj3U4PMRPaIgjUqAEDemUGvNk9kEtHzjSxnxVhevo4sJ6Ijw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
