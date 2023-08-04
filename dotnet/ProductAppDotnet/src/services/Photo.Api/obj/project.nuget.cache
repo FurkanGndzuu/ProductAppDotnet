@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uezq5Jhyyk/9Oego7UnzNE8n1BSaqxngRzACrdm2IKucACHrTQmvW0K/LoXQPDyGxIS9AejubTLsXvEKgV4FKw==",
+  "dgSpecHash": "FF1ztzmtkCFhlO28yFeaR0n5lttZ6Ot6aAexA9MKpJar0TS9FutiN5bG1l6oZj82BXGKT3Ni9boZz01zEWYung==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Photo.Api\\Photo.Api.csproj",
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet-Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Photo.Api\\Photo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

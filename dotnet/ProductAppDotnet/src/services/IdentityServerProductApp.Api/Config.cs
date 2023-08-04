@@ -13,8 +13,12 @@ namespace IdentityServerProductApp.Api
 
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[] {
 
-            new ApiResource("product_resource"){Scopes = { "product_app_full_permission" } },
-            new ApiResource("photo_resource"){Scopes = { "photo_app_full_permission" } },
+            new ApiResource("product_resource"){Scopes = { "product_app_full_permission" } ,
+            ApiSecrets = new[] {new Secret("product_secret".Sha256())}
+            },
+            new ApiResource("photo_resource"){Scopes = { "photo_app_full_permission" },
+            ApiSecrets = new[] {new Secret("photo_secret".Sha256())}
+            },
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
 
             };

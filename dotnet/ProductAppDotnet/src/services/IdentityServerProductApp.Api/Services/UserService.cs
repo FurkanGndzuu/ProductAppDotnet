@@ -37,8 +37,8 @@ namespace IdentityServerProductApp.Api.Services
 
                 if(!result.Succeeded)
                 {
-                    //throw new System.Exception();
                     return false;
+
                 }
                 return true;
 

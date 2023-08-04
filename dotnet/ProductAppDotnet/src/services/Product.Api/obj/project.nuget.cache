@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2hYGJcAZARbM1EhzaynVth60WfGa+al39z6dQc/hoqMAh5LewRtCz2z5Yix3JBzzqB+EPPRuM78cvz/q68BYsg==",
+  "dgSpecHash": "//84mZ0b1mK3hSIyR5zrop5S4G+add/Nw1ahz7gkAhGkpHYcejJr8zsjGKNUakqEfJB5FU5WPk++aQscoAzngg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Product.Api\\Product.Api.csproj",
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet-Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\Product.Api\\Product.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",

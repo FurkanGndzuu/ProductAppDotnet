@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4XFQkAN++Bv2YFo3brk7LqW5YMTDRulGgCdIVliWvBGe4fjxyAsBfn8+Lor4di4SQaE/2xqRSQ2YFesyV2FogA==",
+  "dgSpecHash": "RHZ1Ic3niqH/e+FYtZPfEEeFAxTyRBr2+J2t/yB67lKExGCNX8DDtKynxgeZysf9dW1YqjuQ5zCVeK2POpld0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet&Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\IdentityServerProductApp.Api\\IdentityServerProductApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\ProductAppWithDotnet-Kotlin\\dotnet\\ProductAppDotnet\\src\\services\\IdentityServerProductApp.Api\\IdentityServerProductApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
